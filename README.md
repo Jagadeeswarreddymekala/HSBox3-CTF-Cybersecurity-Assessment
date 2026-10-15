@@ -1,1 +1,2 @@
 # HSBox3-CTF-Cybersecurity-Assessment
+This repository documents my walkthrough of the HSBox3 Capture-The-Flag challenge, a training lab simulating a black-box penetration test against a web server (10.213.41.211). Using Nmap, Gobuster, and manual source-code review, I identified an exposed robots.txt, a flag hidden in the HTML source, a publicly readable credentials file, and a hidden virtual host running WordPress — ultimately capturing both flags. The full methodology, tools, evidence, and remediation recommendations are in report.md / report.pdf
